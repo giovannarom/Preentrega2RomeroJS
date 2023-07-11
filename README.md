@@ -1,2 +1,2 @@
 # Preentrega2RomeroJS
-JS simulator on carbon footprint - Attempt 2
+JS simulator on carbon footprint - Attempt 2 🌱
