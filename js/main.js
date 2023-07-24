@@ -53,7 +53,7 @@ function comida() {
   let flg = false; // Variable para controlar si se seleccionó una opción válida
 
   switch (opalimentos) {
-    // Calculo huella de carbono considerando que se comen 20 unidades anualmente
+    // Calculo huella de carbono considerando que se comen 25 unidades anualmente
     case "1":
       // 1 kg de salmón genera 10.4 kg de CO2
       kgeqcomida = 10.4 * 25;
